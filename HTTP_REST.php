@@ -1,5 +1,7 @@
 <?php
 
+namespace HTTP\REST;
+
 class HTTP
 {
     public static function Get(array $settings)
