@@ -1,0 +1,12 @@
+{
+    "name": "http/rest",
+    "description": "Biblioteca para conexiones REST y SOAP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Http\\Rest\\": "src/"
+        }
+    },
+    "require": {}
+}
