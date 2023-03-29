@@ -1,12 +1,17 @@
 {
-    "name": "http/rest",
+    "name": "daeside/rest",
     "description": "Biblioteca para conexiones REST y SOAP.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Http\\Rest\\": "src/"
+            "Daeside\\Rest\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "daeside"
+        }
+    ],
     "require": {}
 }
