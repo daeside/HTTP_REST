@@ -1,6 +1,6 @@
 <?php
 
-namespace HTTP\REST;
+namespace Daeside\Rest;
 
 class HTTP
 {
